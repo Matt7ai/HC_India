@@ -1,5 +1,7 @@
 **Understanding Hate Crimes in India: A Causal Analysis**
 
+*Disclaimer: This is a personal project I have been working on, specifically with regards to a Machine Learning Class I have been taking. All the data is free-to-source data available on 'Kaggle.com'. I have merely conducted an analysis based on the available data, and do not endorse the validity of it. Furthermore, I am not responsible for any personal greivances that this analysis may cause to a particular racial group, ethnicity or caste. I am merely reporting the facts based on the analysis that has been conducted.*
+
 An analysis using ML on measuring Hate Crimes in India. Replication of freely available data on Kaggle.
 
 1. **Introduction:**
